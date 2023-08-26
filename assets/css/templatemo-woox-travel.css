@@ -354,6 +354,7 @@ Header Style
   background: transparent;
   display: flex;
   padding: 0px 30px;
+
 }
 
 .background-header .main-nav {
@@ -370,7 +371,7 @@ Header Style
 }
 
 .header-area .main-nav .logo img {
-  width: 159px;
+  width: 150px;
   margin-top: 15px;
 }
 
